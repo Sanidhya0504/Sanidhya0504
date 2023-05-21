@@ -1,24 +1,23 @@
-<h1 align="center">Hi There! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> I'm Vimal Kunwar</h1>
-<h3 align="center">A Multidisciplinary Full-Stack Developer from Dehradun, INDIA</h3>
+<h1 align="center">Hi There! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> I'm  Sanidhya Sharma</h1>
+<h3 align="center">A Full-Stack Developer from Dehradun, India</h3>
 <img align="right" alt="Coding" width="43%" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"/>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=sanidhya0504&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden"/>
 </p>
 
-- 🔭 I’m currently working on **[Personal Project](https://)**
+- 🔭 I’m currently working on **[Personal Project](https://sanidhyasharma.me)**
 - 🌱 I’m currently learning **RestAPI** 
 - 👯 I’m looking to collaborate on **OpenSource /Community Project** 
-- 👨‍💻 All of my projects are available at **[sanidhya0504](https://)** 
+- 👨‍💻 All of my projects are available at **[sanidhya0504](https://sanidhyasharma.me)** 
 - 💬 Ask me about **React, JavaScript, NodeJS, Express** 
 - 📫 Reach me at **sharmasanidhya0504@gmail.com** 
-- ⚡ Fun fact **I'm a good listener**
+- ⚡ Fun fact **I'm a guitarist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/sanidhya0504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vimal Kunwar" height="30" width="40"/></a>
-    <a href="https://twitter.com/sanidhya0504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vimal Kunwar" height="30" width="40"/></a>
-    <a href="https://instagram.com/kunwar.vimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vimal Kunwar" height="30" width="40"/></a>
+    <a href="https://linkedin.com/in/sanidhya0504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanidhya Sharma" height="30" width="40"/></a>
+    <a href="https://instagram.com/saanidhya0504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sanidhya Sharma" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
